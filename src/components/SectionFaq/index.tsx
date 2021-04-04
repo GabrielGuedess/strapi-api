@@ -3,11 +3,10 @@ import React from 'react'
 import Container from 'components/Container'
 import Heading from 'components/Heading'
 
-import faq from './content'
 import * as S from './styles'
 import { SectionFaqProps } from 'types/api'
 
-const SectionFaq = ({title, questions}: SectionFaqProps) => (
+const SectionFaq = ({ title, questions }: SectionFaqProps) => (
   <S.Wrapper>
     <S.Content>
       <Container>
