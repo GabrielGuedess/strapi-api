@@ -36,6 +36,7 @@
   },
   "dependencies": {
     "@babel/plugin-transform-react-jsx": "^7.13.12",
+    "@babel/plugin-transform-react-jsx-self": "^7.12.13",
     "graphql": "^15.5.0",
     "graphql-request": "^3.4.0",
     "imagemin-mozjpeg": "^9.0.0",
